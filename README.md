@@ -1,37 +1,58 @@
-<h1 align="center">Hi, I'm Chean Pisey 👋</h1>
-<p align="center"><b>IT Support Specialist · Web Builder · Kampot, Cambodia 🇰🇭</b></p>
+# 👨‍💻 IT Support | Retail Trader
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=IT+Support+%26+Network+Admin;Vanilla+HTML%2FCSS%2FJS+builder;Learning+every+day" alt="Typing SVG" />
-</p>
+> **Better Infrastructure. Better Opportunities.**
+> *Tech meets trade.*
+
+Hi! I'm **Alittle-Giant**, an IT enthusiast from Cambodia 🇰🇭, focused on networking, system administration, and infrastructure troubleshooting.
+
+I'm building my skills toward becoming a professional Network Engineer through hands-on labs, real-world troubleshooting, and continuous learning.
+
+## 🛠️ Technical Skills
+
+- **Networking:** TCP/IP, VLANs, Routing, Switching, DHCP, DNS
+- **Network Platforms:** Cisco, MikroTik, Fortinet, UniFi
+- **Systems:** Windows Server, Active Directory, Linux
+- **Monitoring & Security:** Zabbix, Firewall, VPN, Network Troubleshooting
+- **Automation:** Python, Bash, Telegram Alerts
+- **Virtualization & Tools:** VMware, VirtualBox, Packet Tracer, Git
+
+## 🚀 Featured Projects
+
+| Project                     | Description                                                                |
+| --------------------------- | -------------------------------------------------------------------------- |
+| 🌐 MikroTik Network Lab     | Router configuration, DHCP, firewall rules, NAT, and multi-WAN experiments |
+| 🔌 Cisco Packet Tracer Labs | VLANs, trunking, inter-VLAN routing, OSPF, and ACL practice                |
+| 📡 Network Monitoring       | Monitoring experiments and Telegram alerts for network events              |
+| 🌡️ Office IoT Monitoring   | Sensor monitoring with Telegram and email notifications                    |
+
+*Projects are a roadmap—replace these descriptions with links to your actual repositories as you publish them.*
+
+## 🎯 Current Learning Goals
+
+- [ ] Master networking fundamentals and troubleshooting
+- [ ] Build advanced Cisco and MikroTik labs
+- [ ] Improve Linux and Windows Server administration
+- [ ] Develop network automation skills
+- [ ] Explore network security and monitoring
+
+## 📊 GitHub Statistics
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alittle-Giant&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alittle-Giant&layout=compact&theme=tokyonight&hide_border=true)
+
+
+
+
+## 🤝 Connect With Me
+
+- 🌍 Location: Cambodia
+- 💻 GitHub: [Alittle-Giant](https://github.com/Alittle-Giant)
+- 💼 LinkedIn: [Chean Pisey](https://web.facebook.com/pisey.chean.16/)
 
 ---
 
-### 👨‍💻 About me
-- 🛠️ 3 years in IT support at a resort in Kampot
-- 🌐 I build small web apps with HTML, CSS, JavaScript and Firebase
-- 🗣️ Khmer (native) · English · Vietnamese
-- 📈 Currently building a trading journal web app
+> *Small steps every day lead to big results.*
 
-### 🧰 Skills
-**Web:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-
-**IT:** Cisco L2/L3 · FortiGate · Windows Server · Group Policy · Kaspersky Endpoint Security
-
-### 🚀 Projects
-| Project | What it is |
-|---|---|
-| [Portfolio](LINK) | Responsive site with dark/light mode |
-| [Our Memories](LINK) | Photo scrapbook with Firebase + Cloudinary |
-| [Trading Journal](LINK) | Journal app with trade cards and screenshots |
-
-### 📫 Contact
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seyy2309&show_icons=true&theme=dark" />
-</p>
+**Tech meets trade. More skills. More opportunities.**
